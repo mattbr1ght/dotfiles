@@ -1,0 +1,76 @@
+gum - glamorous shell scripts
+mako - notifications for wayland
+ncdu - folder disk usage tui
+ncpamixer - nice pulseaudio audiomixer tui
+fzf - fuzzy file finding !(great)
+nnn - filebrowser (consider switching to another)
+opendrop - open airdrop implementation in linux
+pacman-contrib - scripts and automations for pacman
+pacseek - pacman package managing tui
+pywal - set system color palette according to wallpapers color pallette
+pywalfox
+rigrep - recursive text search
+rmlint - remove duplicates
+rofi - menus app menu
+spt - spotify tui
+sptlrx - spotify tui lyrics
+starship - zsh theme
+tmux - split one window into many virtual windows
+unzip
+yay
+zsh
+git-credential-manager
+
+ttf-apple-emoji - apple emoji font
+ttf-firacode-nerd - firacode nerd font with glyphs and such
+ttf-roboto - highly recognizable font
+
+?zoxide - smarter cd command
+?lazygit - tui for git commands
+
+nvidia-drivers - fuck them
+nvidia-open-dkms
+networkmanager
+os-prober - grub with windows
+sof-firmware
+
+pipewire
+
+rust
+nodejs
+php
+php-apache
+php-cgi
+php-gd
+php-pgsql
+npm
+neofetch
+neovim
+kitty
+apache
+btop
+git
+
+hyprland
+hyprlock
+hyprpaper
+hyprpicker-git
+waybar
+xdg-desktop-portal-hyprland
+
+
+wofi
+
+cmatrix
+cbonsai
+pipes.sh
+sl
+
+davinci-resolve
+firefox
+obs-studio
+obsidian
+reaper
+spotify
+steam
+multimc

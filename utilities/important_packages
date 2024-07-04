@@ -1,0 +1,3 @@
+pacman -S ripgrep nvim btop 
+
+   
