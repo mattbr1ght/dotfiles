@@ -1,6 +1,7 @@
 *
 !.gitignore
 !custom_files
+!custom_files/**
 !.config
 !.config/nvim/**
 !.config/gh/**
