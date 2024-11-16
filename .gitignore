@@ -4,6 +4,7 @@
 !/custom_files/**
 /.config/*
 !/.config/nvim
+!/.config/nvim/lua
 !/.config/nvim/**
 !/.config/gh/**
 !/.config/dconf/**
