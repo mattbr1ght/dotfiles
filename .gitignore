@@ -1,6 +1,45 @@
+# .gitignore
 *
 !.gitignore
-!.config/.gitignore
+# !.config/.gitignore
+
+# .config
+!.config/nvim/
+!.config/nvim/**
+!.config/gh/
+!.config/gh/**
+!.config/dconf/
+!.config/dconf/**
+!.config/pacseek/
+!.config/pacseek/**
+!.config/btop/
+!.config/btop/**
+!.config/neofetch/
+!.config/neofetch/**
+!.config/yay/
+!.config/yay/**
+!.config/wal/
+!.config/wal/**
+!.config/waybar/
+!.config/waybar/**
+!.config/starship/
+!.config/starship/**
+!.config/spotify-tui/
+!.config/spotify-tui/**
+!.config/rofi/
+!.config/rofi/**
+!.config/nnn/
+!.config/nnn/**
+!.config/mako/
+!.config/mako/**
+!.config/kitty/
+!.config/kitty/**
+!.config/hypr/
+!.config/hypr/**
+!.config/dotfiles-scripts/
+!.config/dotfiles-scripts/**
+
+# rest
 !custom_files
 !custom_files/**
 !.bashrc
