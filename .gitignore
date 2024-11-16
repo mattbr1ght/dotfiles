@@ -3,6 +3,7 @@
 !custom_files
 !custom_files/**
 !.config
+!.config/nvim
 !.config/nvim/**
 !.config/gh/**
 !.config/dconf/**
@@ -17,7 +18,6 @@
 !.config/rofi/**
 !.config/nnn/**
 !.config/mako/**
-!.config/nvim/**
 !.config/kitty/**
 !.config/hypr/**
 !.config/dotfiles-scripts/**
