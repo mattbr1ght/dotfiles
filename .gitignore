@@ -17,6 +17,7 @@
 !.config/rofi/**
 !.config/nnn/**
 !.config/mako/**
+!.config/nvim/**
 !.config/kitty/**
 !.config/hypr/**
 !.config/dotfiles-scripts/**
