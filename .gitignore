@@ -4,8 +4,8 @@
 # !.config/.gitignore
 
 # .config
+!.config/
 !.config/nvim/
-!.config/nvim/lua/
 !.config/nvim/**
 !.config/gh/
 !.config/gh/**
