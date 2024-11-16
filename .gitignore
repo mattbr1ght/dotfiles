@@ -1,6 +1,6 @@
 *
 !.gitignore
-!.config/*
+!.config/.gitignore
 !custom_files
 !custom_files/**
 !.bashrc
